@@ -24,8 +24,10 @@ The **Daily Transactions** dataset contains data on dummy transactions recorded 
 - **Income/Expense** 📈📉: Indicates whether the transaction is an expense or income
 - **Currency** 💵: All transactions are recorded in Indian Rupees (INR)
 
-You can download the dataset from the link below:
-**📥 Download Dataset**: [Click here to download the dataset][(https://drive.google.com/drive/folders/1aBnq_HqhEN5FfYpiTwmM66Cq7ncm0UWN?usp=sharing)](#)  
+
+**📥 Download Dataset**: [Click here to download the dataset](https://drive.google.com/drive/folders/1aBnq_HqhEN5FfYpiTwmM66Cq7ncm0UWN?usp=sharing)(#)
+
+ 
 
 ## 🛠️ Project Workflow 🔄
 
